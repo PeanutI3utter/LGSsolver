@@ -17,16 +17,6 @@ int main(){
 	eulerAlgFullSearch(matrix, vector, 3, 3);
 	printf("\n");
 	printf("\n");
-	/*swapRow(matrix, 2, 3, 4);
-	swapRow(vector, 2, 3, 1);
-	printMatrixVector(matrix, vector, 4, 4);
-	printf("\n");
-	printf("\n");
-	swapColumn(matrix, 2, 3, 4, 4);
-	printMatrixVector(matrix, vector, 4, 4);
-	printf("\n");
-	printf("\n");
-	*/
 	return 0;
 }
 
